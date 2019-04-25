@@ -1,1 +1,1 @@
-# Xiaoying-Z
+# Graph processing on multi-GPU
